@@ -8,6 +8,7 @@ Which characteristics are predictive for countries with large populations living
 Which characteristics are predictive for populations emerging from extreme poverty?
 
 To accomplish this, we utilize various libraries from scikit-learn (sklearn) for data analysis and modeling. In addition, standard Python libraries are imported at the beginning of the Jupyter Notebook to ensure smooth execution of the project. One crucial library we use is <b>world_bank_data</b>, which facilitates direct loading of datasets from the World Bank database.
+https://github.com/mwouts/world_bank_data
 
 ## Project Structure
 The project is organized as follows:
