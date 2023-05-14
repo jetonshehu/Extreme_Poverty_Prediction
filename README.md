@@ -25,12 +25,29 @@ Results and Discussion: The findings obtained from the modeling stages are summa
 ## Dependencies
 The following dependencies are required to run this research project:
 
-Python (version 3.x)
-Jupyter Notebook
-scikit-learn (sklearn) library
-world_bank_data library
-Standard Python libraries such as numpy, pandas, matplotlib, and seaborn.
-Please ensure that these dependencies are installed before running the Jupyter Notebook.
+### Standard Libraries
+
+- numpy (version 1.17.4): Scientific computing library.
+- matplotlib (version 3.1.2): Data visualization library.
+- pandas (version 0.25.3): Data manipulation library.
+- seaborn (version 0.9.0): Statistical data visualization library.
+
+### Machine Learning Libraries
+
+- scikit-learn (sklearn) (version 0.22): Machine learning library.
+- lightgbm (version 3.3.5): Gradient boosting framework.
+
+### GIS Libraries
+
+- geopandas (version 0.6.2): Geographic data manipulation library.
+
+### Visualization Libraries
+
+- plotly (version 4.5.0): Interactive visualization library.
+
+### Other Libraries
+
+- world_bank_data (version 0.1.3): Library for accessing World Bank data.
 
 ## Usage
 Clone the repository to your local machine or download the project files as a ZIP archive.
