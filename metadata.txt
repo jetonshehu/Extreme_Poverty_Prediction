@@ -1,0 +1,8 @@
+-------------------------------------------
+Poverty measures       Inequality measures
+--------------------   --------------------
+Headcount ratio        Gini index
+Poverty gap            Mean log deviations
+Poverty severity       Decile shares
+Watts index            
+-------------------------------------------
