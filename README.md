@@ -1,5 +1,7 @@
 # Extreme Poverty Prediction
 
+<a href="https://zenodo.org/badge/latestdoi/639107975"><img src="https://zenodo.org/badge/639107975.svg" alt="DOI"></a>
+
 ## Project Overview
 The goal of this research project is to perform an exploratory data analysis and modeling to gain insights into the following questions:
 
