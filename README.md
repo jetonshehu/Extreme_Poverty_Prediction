@@ -60,7 +60,7 @@ Follow the instructions within the notebook to execute the cells sequentially.
 Analyze the results, interpretations, and visualizations provided in the notebook to answer the research questions.
 
 ## Datasets
-Datasets are already included in this repository but if needed to be extracted from the repository dataset for some reason this are the DOI where the data can be accessed.
+The GIT repository already contains the necessary datasets, but in case there is a need to extract them for any specific reason, here are the DOIs where the data can be accessed.
 
 [![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.1201635.svg)](https://doi.org/10.5072/zenodo.1201635) The dataset CountryTable_1.9.csv which needs to be saved in the file path data/CountryTable_1.9.csv
 
