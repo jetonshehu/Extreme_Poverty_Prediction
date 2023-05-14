@@ -59,10 +59,18 @@ Open the Jupyter Notebook (Extreme_Poverty_Prediction.ipynb) using Jupyter Noteb
 Follow the instructions within the notebook to execute the cells sequentially.
 Analyze the results, interpretations, and visualizations provided in the notebook to answer the research questions.
 
+## Datasets
 Datasets are already included in this repository but if needed to be extracted from the repository dataset for some reason this are the DOI where the data can be accessed.
 
-The dataset CountryTable_1.9.csv which needs to be saved in the file path data/CountryTable_1.9.csv
-[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.1201635.svg)](https://doi.org/10.5072/zenodo.1201635)
+[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.1201635.svg)](https://doi.org/10.5072/zenodo.1201635) The dataset CountryTable_1.9.csv which needs to be saved in the file path data/CountryTable_1.9.csv
+
+[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.1201693.svg)](https://doi.org/10.5072/zenodo.1201693)
+The indicators datasets:
+wb_education.csv
+wb_gender.csv 
+wb_health.csv 
+wb_worlddev.csv
+which needs to be saved in the file path data/wb_api
 
 
 ## Conclusion
