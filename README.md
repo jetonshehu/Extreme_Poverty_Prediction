@@ -62,9 +62,10 @@ Analyze the results, interpretations, and visualizations provided in the noteboo
 ## Datasets
 The GIT repository already contains the necessary datasets, but in case there is a need to extract them for any specific reason, here are the DOIs where the data can be accessed.
 
-[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.1201635.svg)](https://doi.org/10.5072/zenodo.1201635) The dataset CountryTable_1.9.csv which needs to be saved in the file path data/CountryTable_1.9.csv
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7933483.svg)](https://doi.org/10.5281/zenodo.7933483) 
+The dataset CountryTable_1.9.csv which needs to be saved in the file path data/CountryTable_1.9.csv
 
-[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.1201693.svg)](https://doi.org/10.5072/zenodo.1201693)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7935056.svg)](https://doi.org/10.5281/zenodo.7935056)
 The indicators datasets:
 wb_education.csv
 wb_gender.csv 
