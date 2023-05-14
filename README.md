@@ -8,6 +8,7 @@ Which characteristics are predictive for countries with large populations living
 Which characteristics are predictive for populations emerging from extreme poverty?
 
 To accomplish this, we utilize various libraries from scikit-learn (sklearn) for data analysis and modeling. In addition, standard Python libraries are imported at the beginning of the Jupyter Notebook to ensure smooth execution of the project. One crucial library we use is <b>world_bank_data</b>, which facilitates direct loading of datasets from the World Bank database.
+
 https://github.com/mwouts/world_bank_data
 
 ## Project Structure
@@ -17,11 +18,9 @@ Data Collection: We utilize the world_bank_data library to retrieve relevant dat
 
 Data Preprocessing: Before conducting the exploratory data analysis, we preprocess the data to ensure its quality and suitability for analysis. This includes handling missing values, performing data transformations, and combining relevant variables.
 
-Exploratory Data Analysis (EDA): We explore the datasets to gain insights into the world's extreme poverty situation and identify potential predictors for countries with large populations living in extreme poverty. The EDA involves statistical summaries, visualizations, and correlation analyses.
-
 Modeling: Using the preprocessed data, we employ machine learning techniques provided by scikit-learn to develop predictive models. These models aim to identify the characteristics that are predictive for populations emerging from extreme poverty.
 
-Results and Discussion: The findings obtained from the EDA and modeling stages are summarized and discussed, addressing the research questions stated at the beginning.
+Results and Discussion: The findings obtained from the modeling stages are summarized and discussed, addressing the research questions stated at the beginning.
 
 ## Dependencies
 The following dependencies are required to run this research project:
