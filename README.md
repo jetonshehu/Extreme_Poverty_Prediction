@@ -51,18 +51,14 @@ The following dependencies are required to run this research project:
 
 ## Usage
 Clone the repository to your local machine or download the project files as a ZIP archive.
+Open the Jupyter Notebook (Extreme_Poverty_Prediction.ipynb) using Jupyter Notebook or any compatible environment.
 
-Install the required dependencies mentioned in the "Dependencies" section.
-
-Open the Jupyter Notebook (research_project.ipynb) using Jupyter Notebook or any compatible environment.
-
-Follow the instructions within the notebook to execute the cells sequentially. This will run the data collection, preprocessing, EDA, and modeling steps.
-
+Follow the instructions within the notebook to execute the cells sequentially.
 Analyze the results, interpretations, and visualizations provided in the notebook to answer the research questions.
 
 ## Conclusion
 By performing this exploratory data analysis and modeling, we aim to gain valuable insights into the world's extreme poverty situation and identify predictive characteristics for countries with large populations living in extreme poverty and those emerging from it. The results obtained from this research can contribute to a better understanding of the factors influencing extreme poverty and aid in the development of targeted interventions and policies.
 
-For further details, please refer to the Jupyter Notebook (research_project.ipynb) included in this repository.
+For further details, please refer to the Jupyter Notebook (Extreme_Poverty_Prediction.ipynb) included in this repository.
 
 Note: The above instructions assume familiarity with Jupyter Notebook and the necessary setup to run Python code. If you encounter any issues or have questions, please refer to the documentation of the respective libraries or seek assistance from the project authors.
