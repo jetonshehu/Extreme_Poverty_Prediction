@@ -59,6 +59,12 @@ Open the Jupyter Notebook (Extreme_Poverty_Prediction.ipynb) using Jupyter Noteb
 Follow the instructions within the notebook to execute the cells sequentially.
 Analyze the results, interpretations, and visualizations provided in the notebook to answer the research questions.
 
+Datasets are already included in this repository but if needed to be extracted from the repository dataset for some reason this are the DOI where the data can be accessed.
+
+The dataset CountryTable_1.9.csv which needs to be saved in the file path data/CountryTable_1.9.csv
+[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.1201635.svg)](https://doi.org/10.5072/zenodo.1201635)
+
+
 ## Conclusion
 By performing this exploratory data analysis and modeling, we aim to gain valuable insights into the world's extreme poverty situation and identify predictive characteristics for countries with large populations living in extreme poverty and those emerging from it. The results obtained from this research can contribute to a better understanding of the factors influencing extreme poverty and aid in the development of targeted interventions and policies.
 
